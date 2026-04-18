@@ -21,4 +21,11 @@ Current traffic systems are reactive and fail to provide insights into future co
 - Machine Learning (Scikit-learn / LSTM)
 - OpenCV (for vehicle detection - optional)
 - Streamlit (for dashboard visualization)
-- Git & GitHub (version control)
+- Git & GitHub (version control) 
+
+## Insights
+
+- Traffic is highest during peak hours
+- Rain significantly increases congestion
+- Higher vehicle count leads to lower speed
+- Accidents increase traffic delay
