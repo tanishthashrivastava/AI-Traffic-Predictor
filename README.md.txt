@@ -23,9 +23,24 @@ Current traffic systems are reactive and fail to provide insights into future co
 - Streamlit (for dashboard visualization)
 - Git & GitHub (version control) 
 
-## Insights
+## Exploratory Data Analysis (EDA)
 
-- Traffic is highest during peak hours
-- Rain significantly increases congestion
-- Higher vehicle count leads to lower speed
-- Accidents increase traffic delay
+To understand traffic patterns, several visualizations were created:
+
+### 1. Traffic Congestion Distribution
+This bar chart shows the frequency of low, medium, and high congestion levels. It helps identify how often traffic congestion occurs under different conditions.
+
+### 2. Weather Impact on Traffic
+This visualization highlights how weather conditions (clear, rain, fog) affect vehicle density. It was observed that adverse weather conditions increase traffic congestion.
+
+### 3. Feature Correlation Heatmap
+A heatmap was used to analyze relationships between numerical features such as vehicle count, speed, signal delay, and peak hours. Strong correlations help in selecting important features for model building.
+
+### 4. Traffic Pattern Analysis (Vehicle Count vs Speed)
+This scatter plot, colored by congestion level, shows that higher vehicle count leads to lower speed, indicating higher congestion. This visualization provides clear insight into traffic dynamics.
+
+## Key Insights
+- Traffic congestion increases significantly during high vehicle count
+- Weather conditions like rain and fog contribute to higher congestion
+- Speed is inversely related to traffic density
+- Signal delays and accidents impact congestion levels
