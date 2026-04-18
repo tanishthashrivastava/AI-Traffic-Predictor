@@ -1,0 +1,107 @@
+timestamp,location,vehicle_count,avg_speed,traffic_density,road_type,weather,is_peak_hour,accident_reported,signal_delay,congestion_level
+2024-01-01 08:00,Delhi,120,20,high,city,clear,1,0,45,high
+2024-01-01 09:00,Delhi,95,28,medium,city,clear,1,0,30,medium
+2024-01-01 10:00,Delhi,70,35,medium,city,clear,0,0,20,medium
+2024-01-01 11:00,Delhi,50,45,low,city,clear,0,0,10,low
+2024-01-01 12:00,Delhi,65,38,medium,city,clear,0,0,15,medium
+2024-01-01 13:00,Delhi,60,40,medium,city,clear,0,0,12,medium
+2024-01-01 14:00,Delhi,55,42,low,city,clear,0,0,10,low
+2024-01-01 15:00,Delhi,75,30,medium,city,clear,0,0,25,medium
+2024-01-01 16:00,Delhi,100,22,high,city,clear,1,0,40,high
+2024-01-01 17:00,Delhi,130,18,high,city,clear,1,1,60,high
+2024-01-01 18:00,Delhi,150,15,high,city,clear,1,1,70,high
+2024-01-01 19:00,Delhi,140,17,high,city,clear,1,0,65,high
+
+2024-01-02 08:00,Mumbai,140,18,high,city,rain,1,1,65,high
+2024-01-02 09:00,Mumbai,110,25,medium,city,rain,1,0,40,medium
+2024-01-02 10:00,Mumbai,80,35,medium,city,clear,0,0,25,medium
+2024-01-02 11:00,Mumbai,60,45,low,city,clear,0,0,12,low
+2024-01-02 12:00,Mumbai,70,38,medium,city,clear,0,0,20,medium
+2024-01-02 13:00,Mumbai,65,40,medium,city,clear,0,0,15,medium
+2024-01-02 14:00,Mumbai,50,50,low,highway,clear,0,0,5,low
+2024-01-02 15:00,Mumbai,85,32,medium,city,clear,0,0,28,medium
+2024-01-02 16:00,Mumbai,120,20,high,city,rain,1,1,55,high
+2024-01-02 17:00,Mumbai,150,15,high,city,rain,1,1,70,high
+2024-01-02 18:00,Mumbai,160,14,high,city,rain,1,1,75,high
+2024-01-02 19:00,Mumbai,145,16,high,city,clear,1,0,60,high
+
+2024-01-03 08:00,Chandigarh,110,25,high,city,fog,1,0,40,high
+2024-01-03 09:00,Chandigarh,90,30,medium,city,fog,1,0,30,medium
+2024-01-03 10:00,Chandigarh,70,35,medium,city,clear,0,0,20,medium
+2024-01-03 11:00,Chandigarh,50,45,low,city,clear,0,0,10,low
+2024-01-03 12:00,Chandigarh,60,40,medium,city,clear,0,0,15,medium
+2024-01-03 13:00,Chandigarh,55,42,low,city,clear,0,0,12,low
+2024-01-03 14:00,Chandigarh,45,50,low,highway,clear,0,0,5,low
+2024-01-03 15:00,Chandigarh,70,35,medium,city,clear,0,0,22,medium
+2024-01-03 16:00,Chandigarh,100,22,high,city,clear,1,0,40,high
+2024-01-03 17:00,Chandigarh,120,18,high,city,clear,1,1,55,high
+2024-01-03 18:00,Chandigarh,130,16,high,city,clear,1,1,60,high
+2024-01-03 19:00,Chandigarh,125,17,high,city,clear,1,0,58,high
+
+2024-01-04 08:00,Ludhiana,115,24,high,city,clear,1,0,42,high
+2024-01-04 09:00,Ludhiana,90,30,medium,city,clear,1,0,30,medium
+2024-01-04 10:00,Ludhiana,75,35,medium,city,clear,0,0,22,medium
+2024-01-04 11:00,Ludhiana,55,45,low,city,clear,0,0,12,low
+2024-01-04 12:00,Ludhiana,65,38,medium,city,clear,0,0,18,medium
+2024-01-04 13:00,Ludhiana,60,40,medium,city,clear,0,0,15,medium
+2024-01-04 14:00,Ludhiana,50,50,low,highway,clear,0,0,5,low
+2024-01-04 15:00,Ludhiana,80,32,medium,city,clear,0,0,25,medium
+2024-01-04 16:00,Ludhiana,110,22,high,city,clear,1,0,45,high
+2024-01-04 17:00,Ludhiana,130,18,high,city,clear,1,1,60,high
+2024-01-04 18:00,Ludhiana,140,16,high,city,clear,1,1,65,high
+2024-01-04 19:00,Ludhiana,135,17,high,city,clear,1,0,62,high
+
+2024-01-05 08:00,Bangalore,130,20,high,city,rain,1,1,50,high
+2024-01-05 09:00,Bangalore,100,28,medium,city,rain,1,0,35,medium
+2024-01-05 10:00,Bangalore,85,35,medium,city,clear,0,0,25,medium
+2024-01-05 11:00,Bangalore,60,45,low,city,clear,0,0,10,low
+2024-01-05 12:00,Bangalore,70,40,medium,city,clear,0,0,18,medium
+2024-01-05 13:00,Bangalore,65,42,medium,city,clear,0,0,15,medium
+2024-01-05 14:00,Bangalore,55,48,low,highway,clear,0,0,6,low
+2024-01-05 15:00,Bangalore,90,30,medium,city,clear,0,0,28,medium
+2024-01-05 16:00,Bangalore,120,22,high,city,rain,1,1,48,high
+2024-01-05 17:00,Bangalore,150,16,high,city,rain,1,1,65,high
+2024-01-05 18:00,Bangalore,160,14,high,city,rain,1,1,70,high
+2024-01-05 19:00,Bangalore,145,16,high,city,clear,1,0,60,high
+
+2024-01-06 08:00,Jaipur,125,22,high,city,clear,1,0,48,high
+2024-01-06 09:00,Jaipur,95,30,medium,city,clear,1,0,32,medium
+2024-01-06 12:00,Jaipur,70,38,medium,city,clear,0,0,20,medium
+2024-01-06 15:00,Jaipur,80,34,medium,city,clear,0,0,25,medium
+2024-01-06 18:00,Jaipur,140,18,high,city,clear,1,1,65,high
+2024-01-06 22:00,Jaipur,45,50,low,highway,clear,0,0,5,low
+
+2024-01-07 08:00,Hyderabad,135,20,high,city,fog,1,0,50,high
+2024-01-07 09:00,Hyderabad,105,28,medium,city,fog,1,0,35,medium
+2024-01-07 11:00,Hyderabad,75,36,medium,city,clear,0,0,22,medium
+2024-01-07 14:00,Hyderabad,65,42,low,city,clear,0,0,15,low
+2024-01-07 17:00,Hyderabad,145,17,high,city,clear,1,1,68,high
+2024-01-07 21:00,Hyderabad,55,48,low,highway,clear,0,0,6,low
+
+2024-01-08 08:00,Pune,120,24,high,city,clear,1,0,45,high
+2024-01-08 09:00,Pune,100,28,medium,city,clear,1,0,30,medium
+2024-01-08 12:00,Pune,70,38,medium,city,clear,0,0,20,medium
+2024-01-08 16:00,Pune,110,22,high,city,rain,1,1,48,high
+2024-01-08 18:00,Pune,150,16,high,city,rain,1,1,65,high
+2024-01-08 22:00,Pune,50,52,low,highway,clear,0,0,5,low
+
+2024-01-09 08:00,Kolkata,130,21,high,city,fog,1,0,50,high
+2024-01-09 09:00,Kolkata,100,28,medium,city,fog,1,0,35,medium
+2024-01-09 11:00,Kolkata,80,34,medium,city,clear,0,0,25,medium
+2024-01-09 14:00,Kolkata,60,42,low,city,clear,0,0,15,low
+2024-01-09 17:00,Kolkata,150,16,high,city,clear,1,1,70,high
+2024-01-09 21:00,Kolkata,55,48,low,highway,clear,0,0,6,low
+
+2024-01-10 08:00,Ahmedabad,125,23,high,city,clear,1,0,46,high
+2024-01-10 09:00,Ahmedabad,95,30,medium,city,clear,1,0,32,medium
+2024-01-10 12:00,Ahmedabad,70,38,medium,city,clear,0,0,20,medium
+2024-01-10 15:00,Ahmedabad,85,34,medium,city,clear,0,0,25,medium
+2024-01-10 18:00,Ahmedabad,140,18,high,city,clear,1,1,65,high
+2024-01-10 22:00,Ahmedabad,45,50,low,highway,clear,0,0,5,low
+
+2024-01-11 08:00,Chennai,135,20,high,city,rain,1,1,52,high
+2024-01-11 09:00,Chennai,105,28,medium,city,rain,1,0,35,medium
+2024-01-11 11:00,Chennai,75,36,medium,city,clear,0,0,22,medium
+2024-01-11 14:00,Chennai,65,42,low,city,clear,0,0,15,low
+2024-01-11 17:00,Chennai,150,16,high,city,rain,1,1,70,high
+2024-01-11 21:00,Chennai,55,48,low,highway,clear,0,0,6,low 
